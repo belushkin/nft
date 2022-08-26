@@ -1,4 +1,4 @@
 # nft
 NFT collection for OpenSea
 
-## Presentation of existed NFT represented in 1 webpage
+## Existing NFT represented in 1 webpage
